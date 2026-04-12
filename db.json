@@ -3,8 +3,32 @@
     {
       "id": 1,
       "title": "First Post",
-      "content": "Hello from API",
+      "content": "Hello from API 🚀",
       "userName": "Ali"
+    },
+    {
+      "id": 2,
+      "title": "Flutter Learning",
+      "content": "Flutter makes UI development super fast 💙",
+      "userName": "Sara"
+    },
+    {
+      "id": 3,
+      "title": "State Management",
+      "content": "Provider helps manage state easily in Flutter 📦",
+      "userName": "Omar"
+    },
+    {
+      "id": 4,
+      "title": "Clean Architecture",
+      "content": "Separation of concerns makes apps scalable 🏗️",
+      "userName": "Mona"
+    },
+    {
+      "id": 5,
+      "title": "API Integration",
+      "content": "Connecting Flutter with backend is powerful 🔥",
+      "userName": "Youssef"
     }
   ],
   "comments": [
@@ -13,6 +37,36 @@
       "postId": 1,
       "name": "Sara",
       "body": "Nice post!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "name": "Omar",
+      "body": "Very helpful 👍"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "name": "Ali",
+      "body": "Flutter is amazing!"
+    },
+    {
+      "id": 4,
+      "postId": 3,
+      "name": "Mona",
+      "body": "Provider makes life easier"
+    },
+    {
+      "id": 5,
+      "postId": 4,
+      "name": "Sara",
+      "body": "Great explanation!"
+    },
+    {
+      "id": 6,
+      "postId": 5,
+      "name": "Ali",
+      "body": "API integration is powerful 🔥"
     }
   ]
 }
