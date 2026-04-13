@@ -3,37 +3,42 @@
     {
       "id": 1,
       "title": "First Post",
-      "content": "Hello from API 🚀",
+      "content": "Hello from API 🚀 This is a longer post to test how the UI behaves when content grows. It should wrap correctly and not break the layout even if we add more and more text to simulate real social media posts.",
       "userName": "Ali",
-      "createdAt": "2026-04-12T05:00:00Z"
+      "createdAt": "2026-04-12T05:00:00Z",
+      "commentsCount": 2
     },
     {
       "id": 2,
       "title": "Flutter Learning",
-      "content": "Flutter makes UI development super fast Flutter makes UI development super fast  Flutter makes UI development super fast Flutter makes UI development super fast Flutter makes UI development super fast 💙",
+      "content": "Flutter makes UI development super fast 💙 Flutter makes UI development super fast 💙 Flutter makes UI development super fast 💙 Flutter makes UI development super fast 💙 Flutter makes UI development super fast 💙 This is intentionally long to test text overflow handling in your PostCard UI.",
       "userName": "Sara",
-      "createdAt": "2026-04-12T03:00:00Z"
+      "createdAt": "2026-04-12T03:00:00Z",
+      "commentsCount": 1
     },
     {
       "id": 3,
       "title": "State Management",
-      "content": "Provider helps manage state easily 📦",
+      "content": "Provider helps manage state easily 📦 This post contains extra explanation text to simulate a real-world blog or social media post with multiple lines of content and better UI stress testing.",
       "userName": "Omar",
-      "createdAt": "2026-04-11T22:00:00Z"
+      "createdAt": "2026-04-11T22:00:00Z",
+      "commentsCount": 0
     },
     {
       "id": 4,
       "title": "Clean Architecture",
-      "content": "Separation of concerns 🏗️",
+      "content": "Separation of concerns 🏗️ This is a slightly longer explanation to test layout stability when posts contain structured but extended descriptions like in real applications.",
       "userName": "Mona",
-      "createdAt": "2026-04-11T18:00:00Z"
+      "createdAt": "2026-04-11T18:00:00Z",
+      "commentsCount": 0
     },
     {
       "id": 5,
       "title": "API Integration",
-      "content": "Connecting Flutter with backend 🔥",
+      "content": "Connecting Flutter with backend 🔥 This post simulates a real-world scenario where developers explain API integration in detail, including authentication, parsing JSON, and handling errors gracefully.",
       "userName": "Youssef",
-      "createdAt": "2026-04-10T12:00:00Z"
+      "createdAt": "2026-04-10T12:00:00Z",
+      "commentsCount": 0
     }
   ],
   "comments": [
